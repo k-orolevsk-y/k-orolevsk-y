@@ -2,7 +2,7 @@ Hi, Friend! 👋🏻
 
 How are you? 🧐 I'm fine, let's tell you about myself: ⚡️
 
-— I write on PHP, Python, JS, React 😱
+— I'm coding on PHP, Python, JS, React 😱
 
 — I love the night time 🌌
 
