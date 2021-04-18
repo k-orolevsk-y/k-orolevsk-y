@@ -24,4 +24,4 @@ You can contact me on any social network or by email.
 
 ## My projects:
 
-— [Twitch Shadow](https://vk.com/app7776463)
+— [Twitch Shadow](https://vk.com/app7776463) (50k users)
