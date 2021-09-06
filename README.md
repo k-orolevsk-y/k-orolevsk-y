@@ -24,7 +24,7 @@ You can contact me on any social network or by email.
 
 ## My projects:
 
-— [Twitch Shadow](https://vk.com/app7776463) (50k users)
+— [Twitch Shadow](https://vk.com/app7776463) (68k users)
 
 ## Other:
 ![](https://github-readme-stats.vercel.app/api?username=k-orolevsk-y&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
