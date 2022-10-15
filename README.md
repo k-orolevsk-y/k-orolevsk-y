@@ -1,8 +1,10 @@
-## Hi, Friend! I'm Kirill Korolevsky.
+<h1 align="center">Hi, Friend! I'm <a href="https://korolevsky.me/" target="_blank">Kirill Korolevsky</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
+<h3 align="center">Just user from Russia 🇷🇺</h3>
 
-How are you? I'm fine, let's tell you about myself:
 
-— I'm coding on Golang, PHP, Python, JS
+## How are you? I'm fine, let's tell you about myself:
+
+— I'm coding on  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white), ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white), ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 — I love the night time 
 
