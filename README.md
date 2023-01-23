@@ -21,7 +21,7 @@ You can contact me on any social network or by email.
 — Email: i@korolevsky.me
 
 ## Other:
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=k-orolevsk-y&theme=dark&langs_count=10&layout=compact&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=k-orolevsk-y&theme=dark&langs_count=15&layout=compact&hide_border=true&exclude_repo=korolevsky.me))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=k-orolevsk-y&theme=dark&langs_count=15&layout=compact&hide_border=true&exclude_repo=korolevsky.me)
 
 ![](https://github-readme-stats.vercel.app/api?username=k-orolevsk-y&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
 
