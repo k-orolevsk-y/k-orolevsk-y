@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Friend! I'm <a href="https://korolevsky.me/" target="_blank">Kirill Korolevsky</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
-<h3 align="center">Just user from Russia 🇷🇺</h3>
+<h3 align="center">🤪😇🥹</h3>
 
 
 ## How are you? I'm fine, let's tell you about myself:
